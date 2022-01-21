@@ -1,4 +1,12 @@
 {
-"name": "@jchoskins/tiny-test",
-"version": "1.0.0"
+  "name": "@jchoskins/tiny-test",
+  "version": "1.0.0",
+  "repository": "jayceehex/tiny-test",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "jayceehex"
+  ]
 }
